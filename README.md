@@ -37,3 +37,6 @@ Após o treinamento (aprox. 60.000 épocas), a rede é capaz de convergir o erro
    ```bash
    python main.py
 
+## Decaimento do Erro
+![Gráfico de Convergência](loss_plot.png)
+
